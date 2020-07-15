@@ -1,6 +1,6 @@
 ### Dan Gilleland - DMIT/NAIT
 
-I am an instructor at NAIT in the Digital Media and IT program. I teach courses that are mostly in the Computer Software Development path.
+I am an instructor at NAIT in the Digital Media and IT program. I teach courses that are mostly in the Computer Software Development concentration.
 
 - [My current and upcoming ✨**teaching schedules**✨](https://dgilleland.github.io/new)
 
