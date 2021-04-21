@@ -1,8 +1,19 @@
 ### Dan Gilleland - DMIT/NAIT
 
-I am an instructor at NAIT in the Digital Media and IT program. I teach courses that are mostly in the Computer Software Development concentration.
+I am an instructor at NAIT in the Digital Media and IT program. I teach courses that are mostly in the [Computer Software Development](https://www.nait.ca/programs/dmit-computer-software-development?term=2021-spring) concentration.
 
 - [My current and upcoming ✨**teaching schedules**✨](https://dgilleland.github.io/new)
+
+### Technologies & Tools
+
+### GitHub Stats
+
+<a href="https://github.com/dgilleland/dgilleland">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgilleland&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/dgilleland/dgilleland">
+  <img align="center" src=https://github-readme-stats.vercel.app/api?username=dgilleland&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Dan Gilleland's GitHub Stats" />
+</a>
 
 <!--
 
