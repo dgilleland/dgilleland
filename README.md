@@ -6,6 +6,8 @@ I am an instructor at NAIT in the Digital Media and IT program. I teach courses 
 
 ### Technologies & Tools
 
+[![Text Editor](https://img.shields.io/badge/Editor-VS%20Code-green?style=for-the-badge&logo=visualstudiocode)](https://code.visualstudio.com)
+
 ### GitHub Stats
 
 <a href="https://github.com/dgilleland/dgilleland">
